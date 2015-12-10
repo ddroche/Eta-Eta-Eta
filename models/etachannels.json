@@ -1,0 +1,17 @@
+[
+  {name: "etaleague", purpose: "A place where we can exchange our usernames and arrange some Prime-al league games. One more and we'd have a full team!"},
+  {name: "agar_io", purpose: "This channel is for agar.io party name sharing and just anything agar.io related. #CELL"},
+  {name: "eta", purpose: "This channel is used for members of the Eta cohort, and prime staff to communicate, ask questions, and learn."},
+  {name: "eta_announcements", purpose: "For announcements"},
+  {name: "eta_assignments_slides", purpose: "Please don't clog this up with your with and giphs. There are other channels for that."},
+  {name: "eta_bowling", purpose: "git fit bowling"},
+  {name: "eta_channels", purpose: "It is the place for Eta to discuss channels taht we might like to add to Slack"},
+  {name: "eta_fashion", purpose: ""},
+  {name: "eta_help", purpose: "Need help. Like one on one? Ask here."},
+  {name: "eta_lockin", purpose: "Lockin"},
+  {name: "eta_resources", purpose: "Great tutorial? Something help you? Great notes? Share it here. Your cohort will thank you."},
+  {name: "eta_statistics", purpose: ""},
+  {name: "eta_wisdon", purpose: ""},
+  {name: "etaweekendprojectwink", purpose: ""},
+  {name: "just_animals_by_eta", purpose: "All cats. And other animals too. But whatever."}
+]
