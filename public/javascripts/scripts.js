@@ -34,6 +34,7 @@ app.controller('wishlistCtrl', ['$scope', '$http', function ($scope, $http) {
       method: 'post',
       data: $scope.data
     }).then(function (data) {
+      $scope.onPostSuccess = $scope.data.name;
       $scope.data = {
         name: '',
         purpose: ''
